@@ -1,0 +1,18 @@
+{
+	"sftp_lecture":
+	[
+		{
+			"username":"ftp_sivaccin_lecture",
+			"password":"*****",
+			"sftp_host":"www.atlasante.fr"
+		}
+	],
+	"sftp_ecriture":
+	[
+		{
+			"username":"sftp_rdvvaccins_ars",
+                        "password":"*****",
+                        "sftp_host":"www.atlasante.fr"
+		}
+	]
+}
